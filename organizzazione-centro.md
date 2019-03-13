@@ -1,6 +1,6 @@
-## Organizzazione del centro di umanistica digitale
+## Organizzazione del centro interdipartimentale per l’umanistica digitale
 
-Il centro di umanistica digitale dell'ateneo di Cagliari è strutturato per ambiti. Attualmente sono attivi i seguenti ambiti:
+Il centro interdipartimentale per l’umanistica digitale dell'ateneo di Cagliari è strutturato per ambiti. Attualmente sono attivi i seguenti ambiti:
 
 * Storia
 * Geografia
@@ -8,6 +8,7 @@ Il centro di umanistica digitale dell'ateneo di Cagliari è strutturato per ambi
 * Cinema
 * Musica
 
+![Thumbnail of Slate](assets/schema-organizzativo.png)
 
 ### Figure coinvolte e ruoli
 
