@@ -1,5 +1,5 @@
 ## Documentazione tecnica del centro interdipartimentale per l’umanistica digitale **dh.unica.it**
-Queste pagina raccolgono tutta la documentazione tecnica dei sistemi, degli applicativi del centro interdipartimentale per l’umanistica digitale dell'università di Cagliari [http://dh.unica.it](http://dh.unica.it). Sono inoltre disponibili le guide all'utilizzo degli strumenti digitali necessari alle attività del centro e sono disponibili le procedure interne per la gestione dei principali processi organizzativi.
+La documentazione tecnica per le procedure, le motodologie ed il software utilizzato nel centro interdipartimentale per l’umanistica digitale sono uno strumento di lavoro per tutti gli operatori del centro e per gli utenti che usufruiscono degli esiti dei singoli progetti. Questo sito raccoglie tutta la documentazione prodotta e serve ad orientare la progettazione di nuove iniziative e lo sviluppo di quelle già avviate, fornendo indicazioni relative al service design (progettazione dei servizi), al content design (progettazione dei contenuti) e alla user interface (interfaccia utente).
 
 ### [Organizzazione](./organizzazione-centro.md)
 Il centro è organizzato per ambiti.
