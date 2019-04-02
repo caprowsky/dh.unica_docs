@@ -9,3 +9,6 @@ In questa sezione è presente una descrizione dei software utilizzati nel centro
 
 ### [Strumenti per la gestione delle attività](./strumenti.md)
 Per l'attività del centro vengono utilizzati numerosi strumenti.
+
+### [Nuovo elenco](./prova.md)
+Ciao
